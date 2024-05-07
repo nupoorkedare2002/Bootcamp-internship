@@ -60,7 +60,7 @@ This repository contains tasks completed during a web frontend development bootc
 ![task2](https://github.com/nupoorkedare2002/Bootcamp-internship/assets/143624372/0bf28df5-880e-468f-895a-807aadcad31e)
 
 ---
-- DAY-2
+- DAY-2 (tasks are in bootstrap folder)
 - Add Logo and Navigation bar in header. Use bootstrap framework.
 - Add tasks list in navbar menu and and Bootstrap component page link and contact(contact page with contact form and design it using bootstrap)
 - Create Homepage take reference of https://www.raweng.com/ or any other webpage containing complex column structure
