@@ -1,0 +1,67 @@
+/* Global Styles */
+body {
+  padding-top: 56px; /* Height of the fixed navbar */
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+/* Header Styles */
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+/* Homepage Styles */
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 4rem 0;
+}
+
+/* About Me Section */
+.about-me-section {
+  margin-top: 3rem;
+}
+
+/* Skills Section */
+.skills-section .skill {
+  margin-bottom: 1rem;
+}
+
+.skills-section .progress {
+  height: 25px;
+  border-radius: 5px;
+}
+
+.skills-section .progress-bar {
+  font-size: 14px;
+  line-height: 25px;
+}
+
+
+/* Projects Section */
+.projects-section .card {
+  transition: all 0.3s ease;
+}
+
+.projects-section .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer Styles */
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .jumbotron {
+    padding: 3rem 0;
+  }
+}

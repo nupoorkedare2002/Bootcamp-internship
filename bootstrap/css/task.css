@@ -1,0 +1,42 @@
+/* styles.css */
+* {
+    box-sizing: border-box;
+}
+/* styles.css */
+.center-box {
+    animation: rotate 3s infinite alternate;
+}
+
+
+/*session*/
+.heading{
+    text-align: center;
+    width: 20 px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+ .session-1{
+    background-color: beige;
+    width: 20 px;
+    border: 1px solid ;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  .session-2{
+    width: 20 px;
+    background-color: beige;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 20px;
+  }
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
