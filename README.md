@@ -4,7 +4,7 @@
 This repository contains tasks completed during a web frontend development bootcamp and internship.
 ---
 ## Table of Contents
-
+- DAY-1
 1. [Google Fonts](#google-fonts)
 2. [Box Sizing with Different Values](#box-sizing-with-different-values)
 3. [UI Component Names](#ui-component-names)
@@ -58,5 +58,48 @@ This repository contains tasks completed during a web frontend development bootc
 
 ---
 ![task2](https://github.com/nupoorkedare2002/Bootcamp-internship/assets/143624372/0bf28df5-880e-468f-895a-807aadcad31e)
+
+---
+- DAY-2
+- Add Logo and Navigation bar in header. Use bootstrap framework.
+- Add tasks list in navbar menu and and Bootstrap component page link and contact(contact page with contact form and design it using bootstrap)
+- Create Homepage take reference of https://www.raweng.com/ or any other webpage containing complex column structure
+- Add footer section containing copyright text
+- Bootstrap page
+- Add Accordion in one section and give Title to that section
+- Add Tabs
+- Use tooltip, spinner and progressbar from bootstrap
+- Contact page - contact form any reference(must contain)
+---
+
+- MY WEBPAGE 
+- Overview
+This project is a responsive webpage created using Bootstrap, showcasing various components like a navbar, cards, progress bar, etc. It includes sections for home, tasks, and contact.
+---
+
+- Features
+- Navbar: Includes links to navigate between different sections of the webpage.
+- Cards: Display information or content in visually appealing cards.
+- Progress Bar: Show progress or completion status for tasks or projects.
+- Responsive Design: Optimized for different screen sizes and devices.
+---
+- Technologies Used
+- HTML
+- CSS
+- Bootstrap
+---
+- Screenshots
+![image](https://github.com/nupoorkedare2002/Bootcamp-internship/assets/143624372/67a4f06f-1ebb-47dc-b34d-9a30e0282bd7)
+![image](https://github.com/nupoorkedare2002/Bootcamp-internship/assets/143624372/79e16e11-ee38-44ff-a51c-42ac8007301a)
+![image](https://github.com/nupoorkedare2002/Bootcamp-internship/assets/143624372/b118c932-7de9-41ae-9396-5339932887bc)
+![image](https://github.com/nupoorkedare2002/Bootcamp-internship/assets/143624372/0e9a62c2-d664-44f1-bad5-4b7c30a6fd45)
+![image](https://github.com/nupoorkedare2002/Bootcamp-internship/assets/143624372/ab80fa06-ea11-4bd1-9d01-34feaf8c5b45)
+![image](https://github.com/nupoorkedare2002/Bootcamp-internship/assets/143624372/0e70f993-3046-49de-b334-7b26701be790)
+
+
+
+
+
+
 
 
